@@ -1,0 +1,7 @@
+.Sidebaractive {
+    margin-left: 250px;
+}
+/* pour evite probleme de siedbarre */
+.Sidebar {
+    margin-left: 10px;
+}
